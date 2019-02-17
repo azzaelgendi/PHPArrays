@@ -3,7 +3,7 @@
     <head>
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1">
-            <title>InClass8 Azza Elgendy</title>
+            <title>processData page</title>
             <link rel="stylesheet" href="main.css" />
     </head>
     <body>
