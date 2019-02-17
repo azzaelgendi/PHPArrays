@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<!--InClass 8 Azza Elgendy-->
+<!--Revision History Azza Elgendy-->
     <head>
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1">
-            <title>InClass8 Azza Elgendy</title>
+            <title>Create check list dynamically</title>
             <link rel="stylesheet" href="main.css" />
     </head>
     <?php
