@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--InClass 8 Azza Elgendy-->
+<!--Azza Elgendy-->
     <head>
             <meta charset="utf-8">
             <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,6 +10,7 @@
         <div class="container">
         <div class="main">
             <h2>Conestoga College<br> On Line Survey Result</h2>
+<!--             create dynamic list -->
             <?php
                 if(isset($_POST['submit']))
                 {
